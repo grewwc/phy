@@ -1,0 +1,9 @@
+{
+  "name": "back_to_js",
+  "version": "0.0.0",
+  "description": "Back_to_js",
+  "main": "app.js",
+  "author": {
+    "name": "grewwc"
+  }
+}
